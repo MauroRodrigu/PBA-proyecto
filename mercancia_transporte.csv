@@ -1,0 +1,151 @@
+Transporte,Mercaderia,Puerto,Año,Porcentaje
+Oleoducto/gasoducto,Petróleo crudo,Total,2023,59
+Oleoducto/gasoducto,Prod.Químicos y petroquímicos,Total,2023,1
+Oleoducto/gasoducto,Combustibles líquidos,Total,2023,32
+Oleoducto/gasoducto,Fertilizantes,Total,2023,1
+Oleoducto/gasoducto,Gases,Total,2023,7
+Oleoducto/gasoducto,"Granos, derivados y subproductos",Total,2023,1
+Camiones,"Granos, derivados y subproductos",Total,2023,65
+Camiones,Otras mercaderías,Total,2023,8
+Camiones,"Arena, Canto Rod. y otros",Total,2023,13
+Camiones,Contenedores,Total,2023,4
+Camiones,Fertilizantes,Total,2023,10
+Tren,"Arena, Canto Rod. y otros",Total,2023,16
+Tren,Prod.Químicos y petroquímicos,Total,2023,83
+Tren,Prod.Siderúrgicos,Total,2023,1
+Oleoducto/gasoducto,Combustibles líquidos,San Nicolás,2023,53
+Oleoducto/gasoducto,Prod.Químicos y petroquímicos,San Nicolás,2023,3
+Oleoducto/gasoducto,Fertilizantes,San Nicolás,2023,44
+Camiones,Fertilizantes,San Nicolás,2023,83
+Camiones,"Granos, derivados y subproductos",San Nicolás,2023,5
+Camiones,Prod.Siderúrgicos,San Nicolás,2023,6
+Camiones,Prod.Químicos y petroquímicos,San Nicolás,2023,1
+Camiones,Prod. Minerales,San Nicolás,2023,5
+Tren,"Arena, Canto Rod. y otros",San Nicolás,2023,100
+Camiones,"Granos, derivados y subproductos",San Pedro,2023,86
+Camiones,"Arena, Canto Rod. y otros",San Pedro,2023,14
+Camiones,Contenedores,Dock Sud,2023,30
+Camiones,"Arena, Canto Rod. y otros",Dock Sud,2023,50
+Camiones,Prod.Siderúrgicos,Dock Sud,2023,20
+Oleoducto/gasoducto,Petróleo crudo,Dock Sud,2023,31
+Oleoducto/gasoducto,Gases,Dock Sud,2023,2
+Oleoducto/gasoducto,Combustibles líquidos,Dock Sud,2023,67
+Oleoducto/gasoducto,Combustibles líquidos,La Plata,2023,100
+Camiones,"Arena, Canto Rod. y otros",La Plata,2023,98
+Camiones,Contenedores,La Plata,2023,2
+Tren,Prod.Químicos y petroquímicos,La Plata,2023,100
+Camiones,Contenedores,Mar del Plata,2023,1
+Camiones,"Pescados, moluscos y crustáceos",Mar del Plata,2023,99
+Oleoducto/gasoducto,Combustibles líquidos,Mar del Plata,2023,100
+Camiones,"Granos, derivados y subproductos",Quequén,2023,95
+Camiones,Fertilizantes,Quequén,2023,5
+Oleoducto/gasoducto,"Granos, derivados y subproductos",Quequén,2023,67
+Oleoducto/gasoducto,Fertilizantes,Quequén,2023,15
+Oleoducto/gasoducto,Combustibles líquidos,Quequén,2023,18
+Oleoducto/gasoducto,Petróleo crudo,Coronel Rosales,2023,100
+Camiones,"Granos, derivados y subproductos",Bahía Blanca,2023,95
+Camiones,Prod. Minerales,Bahía Blanca,2023,4
+Camiones,Carga general/ otros,Bahía Blanca,2023,1
+Oleoducto/gasoducto,Gases,Bahía Blanca,2023,46
+Oleoducto/gasoducto,Combustibles líquidos,Bahía Blanca,2023,52
+Oleoducto/gasoducto,Prod.Químicos y petroquímicos,Bahía Blanca,2023,2
+Tren,"Granos, derivados y subproductos",Bahía Blanca,2023,100
+Camiones,"Granos, derivados y subproductos",Total,2022,58
+Camiones,Contenedores,Total,2022,16
+Camiones,Fertilizantes,Total,2022,8
+Camiones,"Arena, Canto Rod. y otros",Total,2022,9
+Camiones,Otras mercaderías,Total,2022,4
+Camiones,Prod.Siderúrgicos,Total,2022,2
+Camiones,"Pescados, moluscos y crustáceos",Total,2022,1
+Camiones,Prod. Minerales,Total,2022,1
+Oleoducto/gasoducto,Petróleo crudo,Total,2022,58
+Oleoducto/gasoducto,Combustibles líquidos,Total,2022,33
+Oleoducto/gasoducto,Gases,Total,2022,7
+Oleoducto/gasoducto,"Granos, derivados y subproductos",Total,2022,1
+Oleoducto/gasoducto,Prod.Químicos y petroquímicos,Total,2022,1
+Tren,"Granos, derivados y subproductos",Total,2022,84
+Tren,Prod.Químicos y petroquímicos,Total,2022,13
+Tren,"Arena, Canto Rod. y otros",Total,2022,3
+Camiones,Fertilizantes,San Nicolás,2022,88
+Camiones,Prod. Minerales,San Nicolás,2022,7
+Camiones,Prod.Siderúrgicos,San Nicolás,2022,5
+Oleoducto/gasoducto,Combustibles líquidos,San Nicolás,2022,66
+Oleoducto/gasoducto,Fertilizantes,San Nicolás,2022,24
+Oleoducto/gasoducto,Prod.Químicos y petroquímicos,San Nicolás,2022,9
+Oleoducto/gasoducto,"Granos, derivados y subproductos",San Nicolás,2022,1
+Tren,"Arena, Canto Rod. y otros",San Nicolás,2022,100
+Camiones,"Granos, derivados y subproductos",San Pedro,2022,81
+Camiones,"Arena, Canto Rod. y otros",San Pedro,2022,19
+Camiones,Contenedores,Dock Sud,2022,75
+Camiones,"Arena, Canto Rod. y otros",Dock Sud,2022,19
+Camiones,Prod.Siderúrgicos,Dock Sud,2022,6
+Oleoducto/gasoducto,Combustibles líquidos,Dock Sud,2022,78
+Oleoducto/gasoducto,Petróleo crudo,Dock Sud,2022,21
+Oleoducto/gasoducto,Gases,Dock Sud,2022,1
+Camiones,"Arena, Canto Rod. y otros",La Plata,2022,90
+Camiones,Contenedores,La Plata,2022,9
+Camiones,Carga general/ otros,La Plata,2022,1
+Oleoducto/gasoducto,Combustibles líquidos,La Plata,2022,97
+Oleoducto/gasoducto,Prod.Químicos y petroquímicos,La Plata,2022,3
+Tren,Prod.Químicos y petroquímicos,La Plata,2022,100
+Camiones,"Pescados, moluscos y crustáceos",Mar del Plata,2022,86
+Camiones,Contenedores,Mar del Plata,2022,14
+Oleoducto/gasoducto,Combustibles líquidos,Mar del Plata,2022,100
+Camiones,"Granos, derivados y subproductos",Quequén,2022,97
+Camiones,Fertilizantes,Quequén,2022,3
+Oleoducto/gasoducto,"Granos, derivados y subproductos",Quequén,2022,73
+Oleoducto/gasoducto,Fertilizantes,Quequén,2022,16
+Oleoducto/gasoducto,Combustibles líquidos,Quequén,2022,11
+Oleoducto/gasoducto,Petróleo crudo,Coronel Rosales,2022,100
+Camiones,"Granos, derivados y subproductos",Bahía Blanca,2022,98
+Camiones,Prod. Minerales,Bahía Blanca,2022,1
+Camiones,Carga general/ otros,Bahía Blanca,2022,1
+Oleoducto/gasoducto,Combustibles líquidos,Bahía Blanca,2022,48
+Oleoducto/gasoducto,Gases,Bahía Blanca,2022,50
+Oleoducto/gasoducto,Prod.Químicos y petroquímicos,Bahía Blanca,2022,2
+Camiones,"Granos, derivados y subproductos",Total,2021,59
+Camiones,Fertilizantes,Total,2021,12
+Camiones,Contenedores,Total,2021,17
+Camiones,"Arena, Canto Rod. y otros",Total,2021,8
+Camiones,Otras mercaderías,Total,2021,4
+Oleoducto/gasoducto,Combustibles líquidos,Total,2021,72
+Oleoducto/gasoducto,Gases,Total,2021,16
+Oleoducto/gasoducto,Petróleo crudo,Total,2021,12
+Tren,"Granos, derivados y subproductos",Total,2021,89
+Tren,Otras mercaderías,Total,2021,11
+Camiones,Prod.Siderúrgicos,San Nicolás,2021,48
+Camiones,Prod. Minerales,San Nicolás,2021,47
+Camiones,"Granos, derivados y subproductos",San Nicolás,2021,5
+Camiones,"Granos, derivados y subproductos",San Pedro,2021,79
+Camiones,"Arena, Canto Rod. y otros",San Pedro,2021,21
+Camiones,Contenedores,Dock Sud,2021,75
+Camiones,"Arena, Canto Rod. y otros",Dock Sud,2021,18
+Camiones,Prod. Minerales,Dock Sud,2021,1
+Camiones,Prod.Siderúrgicos,Dock Sud,2021,6
+Oleoducto/gasoducto,Combustibles líquidos,Dock Sud,2021,73
+Oleoducto/gasoducto,Petróleo crudo,Dock Sud,2021,25
+Oleoducto/gasoducto,Gases,Dock Sud,2021,2
+Camiones,"Arena, Canto Rod. y otros",La Plata,2021,94
+Camiones,Contenedores,La Plata,2021,6
+Oleoducto/gasoducto,Combustibles líquidos,La Plata,2021,95
+Oleoducto/gasoducto,Prod.Químicos y petroquímicos,La Plata,2021,5
+Tren,Prod.Químicos y petroquímicos,La Plata,2021,100
+Camiones,Pescado fresco,Mar del Plata,2021,54
+Camiones,Contenedores,Mar del Plata,2021,19
+Camiones,Pescado congelado,Mar del Plata,2021,14
+Camiones,Moluscos y demás invertebrados acuáticos,Mar del Plata,2021,13
+Oleoducto/gasoducto,Combustibles líquidos,Mar del Plata,2021,100
+Camiones,"Granos, derivados y subproductos",Quequén,2021,94
+Camiones,Fertilizantes,Quequén,2021,6
+Oleoducto/gasoducto,Aceites vegetales y grasas animales,Quequén,2021,64
+Oleoducto/gasoducto,Fertilizantes,Quequén,2021,26
+Oleoducto/gasoducto,Combustibles líquidos,Quequén,2021,10
+Oleoducto/gasoducto,Petróleo crudo,Coronel Rosales,2021,100
+Camiones,"Granos, derivados y subproductos",Bahía Blanca,2021,94
+Camiones,Fertilizantes,Bahía Blanca,2021,4
+Camiones,Contenedores,Bahía Blanca,2021,1
+Camiones,Prod. Minerales,Bahía Blanca,2021,1
+Oleoducto/gasoducto,Gases,Bahía Blanca,2021,50
+Oleoducto/gasoducto,Combustibles líquidos,Bahía Blanca,2021,49
+Oleoducto/gasoducto,Prod.Químicos y petroquímicos,Bahía Blanca,2021,1
+Tren,"Granos, derivados y subproductos",Bahía Blanca,2021,100

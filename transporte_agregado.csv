@@ -1,0 +1,60 @@
+Transporte,Año,Puerto,Porcentaje
+Oleoducto/gasoducto,2023,Total,55
+Camiones,2023,Total,38
+Tren,2023,Total,7
+Oleoducto/gasoducto,2023,San Nicolás,84
+Camiones,2023,San Nicolás,11
+Tren,2023,San Nicolás,6
+Camiones,2023,San Pedro,100
+Oleoducto/gasoducto,2023,Dock Sud,70
+Camiones,2023,Dock Sud,30
+Oleoducto/gasoducto,2023,La Plata,55
+Camiones,2023,La Plata,28
+Tren,2023,La Plata,18
+Camiones,2023,Mar del Plata,54
+Oleoducto/gasoducto,2023,Mar del Plata,46
+Camiones,2023,Quequén,92
+Oleoducto/gasoducto,2023,Quequén,8
+Oleoducto/gasoducto,2023,Coronel Rosales,100
+Camiones,2023,Bahía Blanca,26
+Oleoducto/gasoducto,2023,Bahía Blanca,48
+Tren,2023,Bahía Blanca,20
+Oleoducto/gasoducto,2022,Total,47
+Camiones,2022,Total,44
+Tren,2022,Total,9
+Camiones,2022,San Nicolás,12
+Oleoducto/gasoducto,2022,San Nicolás,82
+Tren,2022,San Nicolás,6
+Camiones,2022,San Pedro,100
+Camiones,2022,Dock Sud,56
+Oleoducto/gasoducto,2022,Dock Sud,44
+Camiones,2022,La Plata,30
+Oleoducto/gasoducto,2022,La Plata,55
+Tren,2022,La Plata,15
+Camiones,2022,Mar del Plata,57
+Oleoducto/gasoducto,2022,Mar del Plata,43
+Camiones,2022,Quequén,95
+Oleoducto/gasoducto,2022,Quequén,5
+Oleoducto/gasoducto,2022,Coronel Rosales,100
+Camiones,2022,Bahía Blanca,18
+Oleoducto/gasoducto,2022,Bahía Blanca,54
+Tren,2022,Bahía Blanca,22
+Camiones,2021,Total,53
+Oleoducto/gasoducto,2021,Total,39
+Tren,2021,Total,8
+Camiones,2021,San Nicolás,90
+Oleoducto/gasoducto,2021,San Nicolás,10
+Camiones,2021,San Pedro,100
+Camiones,2021,Dock Sud,55
+Oleoducto/gasoducto,2021,Dock Sud,45
+Camiones,2021,La Plata,33
+Oleoducto/gasoducto,2021,La Plata,53
+Tren,2021,La Plata,14
+Camiones,2021,Mar del Plata,61
+Oleoducto/gasoducto,2021,Mar del Plata,39
+Camiones,2021,Quequén,95
+Oleoducto/gasoducto,2021,Quequén,5
+Oleoducto/gasoducto,2021,Coronel Rosales,100
+Camiones,2021,Bahía Blanca,58
+Oleoducto/gasoducto,2021,Bahía Blanca,17
+Tren,2021,Bahía Blanca,23

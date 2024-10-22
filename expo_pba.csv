@@ -1,0 +1,47 @@
+rubro,expo,sector,porc,porc2
+Animales Vivos,18.15146028,Productos Primarios (PP),0.0046309471068476,0.004630947106847637
+Pescados y mariscos sin elaborar,217.92214072,Productos Primarios (PP),0.055598056107766,0.055598056107766095
+Miel,88.14333051,Productos Primarios (PP),0.0224878381748137,0.022487838174813757
+Hortalizas y legumbres sin elaborar,33.9242311,Productos Primarios (PP),0.0086550237524237,0.008655023752423717
+Frutas frescas,2.98884317,Productos Primarios (PP),0.0007625378023267,0.000762537802326768
+Cereales,3061.70503893,Productos Primarios (PP),0.7811269106362894,0.7811269106362894
+Semillas y frutos oleaginosos,476.88183,Productos Primarios (PP),0.1216659429533625,0.12166594295336258
+Tabaco sin elaborar,0.0,Productos Primarios (PP),0.0,0.0
+Lanas sucias,1.05296408,Productos Primarios (PP),0.0002686406980304,0.00026864069803041125
+"Minerales metalíferos,escorias y cenizas",0.0,Productos Primarios (PP),0.0,0.0
+Resto de productos primarios,18.08247326,Productos Primarios (PP),0.0046133465812838,0.004613346581283805
+Carnes y sus preparados,1779.71068415,Manuf. Origen Agropecuario (MOA),0.211729166763824,0.21172916676382408
+Pescados y mariscos elaborados,176.40835153,Manuf. Origen Agropecuario (MOA),0.0209870028944989,0.020987002894498907
+Productos lácteos,192.3387277,Manuf. Origen Agropecuario (MOA),0.0228822127748167,0.022882212774816786
+Otros productos de origen animal,28.98983084,Manuf. Origen Agropecuario (MOA),0.0034488710907014,0.003448871090701437
+Frutas secas o procesadas,1.96880442,Manuf. Origen Agropecuario (MOA),0.0002342253283525,0.00023422532835252688
+"Café, té, yerba mate y especias",2.36916471,Manuf. Origen Agropecuario (MOA),0.000281855514181,0.00028185551418102216
+Productos de molinería,466.93941228,Manuf. Origen Agropecuario (MOA),0.0555509912772437,0.05555099127724374
+Grasas y aceites,2021.3438958,Manuf. Origen Agropecuario (MOA),0.2404758608308746,0.24047586083087463
+"Azúcar, cacao y artículos de confitería",73.58664435,Manuf. Origen Agropecuario (MOA),0.0087544784845817,0.008754478484581708
+"Preparados de hortalizas, legumbres y frutas",207.6257401,Manuf. Origen Agropecuario (MOA),0.0247008827567336,0.024700882756733607
+"Bebidas, líquidos alcohólicos y vinagre",45.16489549,Manuf. Origen Agropecuario (MOA),0.0053731911451889,0.005373191145188921
+Residuos y desperdicios de la industria alimenticia,2919.41671255,Manuf. Origen Agropecuario (MOA),0.3473180632613971,0.34731806326139714
+Extractos curtientes y tintóreos,29.75378633,Manuf. Origen Agropecuario (MOA),0.0035397575818501,0.003539757581850195
+Pieles y cueros,241.37785421,Manuf. Origen Agropecuario (MOA),0.0287163146247739,0.02871631462477396
+Lanas elaboradas,25.56572739,Manuf. Origen Agropecuario (MOA),0.0030415113007994,0.0030415113007994667
+Resto de MOA,193.0467627,Manuf. Origen Agropecuario (MOA),0.0229664464999524,0.02296644649995241
+Productos químicos y conexos,1930.48871802,Manuf. Origen Industrial (MOI),0.1739586495954007,0.17395864959540075
+Materias plásticas y artificiales,574.83533141,Manuf. Origen Industrial (MOI),0.0517990999161965,0.051799099916196585
+Caucho y sus manufacturas,110.42949085,Manuf. Origen Industrial (MOI),0.0099509336285976,0.00995093362859769
+"Manufacturas de cuero, marroquinería, etc.",19.85909315,Manuf. Origen Industrial (MOI),0.0017895266593976,0.0017895266593976969
+"Papel cartón, imprenta y publicaciones",86.84170345,Manuf. Origen Industrial (MOI),0.0078254098662749,0.007825409866274982
+Textiles y confecciones,68.93350183,Manuf. Origen Industrial (MOI),0.0062116803782868,0.006211680378286806
+Calzado y sus componentes,4.56084994,Manuf. Origen Industrial (MOI),0.0004109836484221,0.0004109836484221529
+"Manufacturas de piedra, yeso, etc.",93.27131356,Manuf. Origen Industrial (MOI),0.0084047897309279,0.008404789730927965
+"Piedras, metales preciosos y sus manufacturas, monedas",2.43799966,Manuf. Origen Industrial (MOI),0.0002196910681781,0.00021969106817813184
+Metales comunes y sus manufacturas,1083.20073541,Manuf. Origen Industrial (MOI),0.0976085150945266,0.09760851509452666
+"Máquinas y aparatos, material eléctrico",462.8413024,Manuf. Origen Industrial (MOI),0.041707183880909,0.04170718388090904
+Material de transporte terrestre,6570.15074218,Manuf. Origen Industrial (MOI),0.592044149276407,0.592044149276407
+"Vehículos de navegación aérea, marítima y fluvial",3.20339578,Manuf. Origen Industrial (MOI),0.0002886618288968,0.00028866182889685876
+Resto de MOI,86.34794809,Manuf. Origen Industrial (MOI),0.0077809169796528,0.007780916979652892
+Carburantes,2014.50587881,Combustible y Energía,0.7173144419633956,0.7173144419633956
+Grasas y aceites lubricantes,64.17110935,Combustible y Energía,0.0228497042266058,0.022849704226605896
+Gas de petróleo y otros hidrocarburos gaseosos,450.74785571,Combustible y Energía,0.1604998774070645,0.1604998774070645
+Energía eléctrica,0.0,Combustible y Energía,0.0,0.0
+Resto de Combustible y Energía,278.97421545,Combustible y Energía,0.099335641450648,0.09933564145064805

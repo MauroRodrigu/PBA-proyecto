@@ -1,0 +1,93 @@
+Sector,dolares,porc,destino,tipo,porc_2
+Productos Primarios (PP),3920,14.9,total,total,1.0001020512297174
+Productos Primarios (PP),641,7.6,MERCOSUR,region,0.16353709562200225
+Productos Primarios (PP),454,19.9,Resto ALADI,region,0.11582814572915603
+Productos Primarios (PP),931,42.3,China,region,0.23752423716705787
+Productos Primarios (PP),161,8.2,Unión Europea,region,0.041075619961220534
+Productos Primarios (PP),145,8.8,USMCA,region,0.03699357077252781
+Productos Primarios (PP),126,7.8,Chile,region,0.0321461373609552
+Productos Primarios (PP),491,37.3,ASEAN,region,0.12526788447800796
+Productos Primarios (PP),17,1.7,SICA,region,0.0043371772629860195
+Productos Primarios (PP),201,20.6,Medio Oriente,region,0.051280742932952345
+Productos Primarios (PP),2,0.2,India,region,0.0005102561485865905
+Productos Primarios (PP),337,51.0,Egipto y Magreb,region,0.0859781610368405
+Productos Primarios (PP),2,0.4,Oceanía,region,0.0005102561485865905
+Productos Primarios (PP),567,8.4,Brasil,pais,0.1446576181242984
+Productos Primarios (PP),931,42.3,China,pais,0.23752423716705787
+Productos Primarios (PP),126,7.8,Chile,pais,0.0321461373609552
+Productos Primarios (PP),129,11.0,Estados Unidos,pais,0.032911521583835084
+Productos Primarios (PP),252,24.9,Perú,pais,0.0642922747219104
+Productos Primarios (PP),2,0.2,India,pais,0.0005102561485865905
+Productos Primarios (PP),44,5.2,Uruguay,pais,0.01122563526890499
+Productos Primarios (PP),161,20.3,Colombia,pais,0.041075619961220534
+Productos Primarios (PP),10,1.4,Paraguay,pais,0.0025512807429329525
+Productos Primarios (PP),233,37.8,Vietnam,pais,0.05944484131033779
+Manuf. Origen Agropecuario (MOA),8414,32.0,total,total,1.0009993337774816
+Manuf. Origen Agropecuario (MOA),1058,12.6,MERCOSUR,region,0.12586846863995432
+Manuf. Origen Agropecuario (MOA),273,11.9,Resto ALADI,region,0.032478347768154565
+Manuf. Origen Agropecuario (MOA),1132,51.5,China,region,0.13467212334634052
+Manuf. Origen Agropecuario (MOA),1260,64.2,Unión Europea,region,0.14990006662225183
+Manuf. Origen Agropecuario (MOA),291,17.7,USMCA,region,0.03461977729132959
+Manuf. Origen Agropecuario (MOA),445,27.7,Chile,region,0.05294089654516037
+Manuf. Origen Agropecuario (MOA),677,51.4,ASEAN,region,0.08054154373274959
+Manuf. Origen Agropecuario (MOA),38,3.7,SICA,region,0.0045207956600361665
+Manuf. Origen Agropecuario (MOA),464,47.5,Medio Oriente,region,0.05520129437517845
+Manuf. Origen Agropecuario (MOA),899,95.0,India,region,0.10695250785190824
+Manuf. Origen Agropecuario (MOA),270,40.8,Egipto y Magreb,region,0.032121442847625394
+Manuf. Origen Agropecuario (MOA),480,94.4,Oceanía,region,0.05710478728466736
+Manuf. Origen Agropecuario (MOA),718,10.7,Brasil,pais,0.08541924431331493
+Manuf. Origen Agropecuario (MOA),1132,51.5,China,pais,0.13467212334634052
+Manuf. Origen Agropecuario (MOA),445,27.7,Chile,pais,0.05294089654516037
+Manuf. Origen Agropecuario (MOA),220,18.7,Estados Unidos,pais,0.02617302750547254
+Manuf. Origen Agropecuario (MOA),133,13.2,Perú,pais,0.01582278481012658
+Manuf. Origen Agropecuario (MOA),899,95.0,India,pais,0.10695250785190824
+Manuf. Origen Agropecuario (MOA),242,28.8,Uruguay,pais,0.028790330256019795
+Manuf. Origen Agropecuario (MOA),45,5.7,Colombia,pais,0.005353573807937565
+Manuf. Origen Agropecuario (MOA),80,10.6,Paraguay,pais,0.00951746454744456
+Manuf. Origen Agropecuario (MOA),367,59.6,Vietnam,pais,0.04366136861140192
+Manuf. Origen Industrial (MOI),11116,42.3,total,total,1.001676068268243
+Manuf. Origen Industrial (MOI),5988,71.4,MERCOSUR,region,0.539585848937589
+Manuf. Origen Industrial (MOI),1504,65.8,Resto ALADI,region,0.1355272406149188
+Manuf. Origen Industrial (MOI),49,2.2,China,region,0.004415448663650946
+Manuf. Origen Industrial (MOI),304,15.5,Unión Europea,region,0.027393803954079334
+Manuf. Origen Industrial (MOI),794,48.3,USMCA,region,0.07154829059058879
+Manuf. Origen Industrial (MOI),944,58.7,Chile,region,0.08506497017319373
+Manuf. Origen Industrial (MOI),103,7.8,ASEAN,region,0.009281453313388721
+Manuf. Origen Industrial (MOI),886,87.8,SICA,region,0.07983852073458649
+Manuf. Origen Industrial (MOI),297,30.4,Medio Oriente,region,0.02676302557355777
+Manuf. Origen Industrial (MOI),26,2.7,India,region,0.002342891127651522
+Manuf. Origen Industrial (MOI),49,7.4,Egipto y Magreb,region,0.004415448663650946
+Manuf. Origen Industrial (MOI),24,4.8,Oceanía,region,0.0021626687332167898
+Manuf. Origen Industrial (MOI),5005,74.5,Brasil,pais,0.451006542072918
+Manuf. Origen Industrial (MOI),49,2.2,China,pais,0.004415448663650946
+Manuf. Origen Industrial (MOI),944,58.7,Chile,pais,0.08506497017319373
+Manuf. Origen Industrial (MOI),434,37.0,Estados Unidos,pais,0.03910825959233694
+Manuf. Origen Industrial (MOI),611,60.4,Perú,pais,0.05505794149981077
+Manuf. Origen Industrial (MOI),26,2.7,India,pais,0.002342891127651522
+Manuf. Origen Industrial (MOI),498,59.4,Uruguay,pais,0.044875376214248384
+Manuf. Origen Industrial (MOI),565,71.4,Colombia,pais,0.05091282642781192
+Manuf. Origen Industrial (MOI),447,59.5,Paraguay,pais,0.04027970515616271
+Manuf. Origen Industrial (MOI),14,2.3,Vietnam,pais,0.0012615567610431272
+Combustible y Energía,2849,10.8,total,total,1.014456630109671
+Combustible y Energía,701,8.4,MERCOSUR,region,0.24960831790343255
+Combustible y Energía,55,2.4,Resto ALADI,region,0.019584104828372025
+Combustible y Energía,87,4.0,China,region,0.030978493092152115
+Combustible y Energía,237,12.1,Unión Europea,region,0.08438968807862128
+Combustible y Energía,413,25.2,USMCA,region,0.14705882352941177
+Combustible y Energía,94,5.8,Chile,region,0.03347101552485401
+Combustible y Energía,46,3.5,ASEAN,region,0.016379433129183878
+Combustible y Energía,68,6.7,SICA,region,0.024213075060532687
+Combustible y Energía,15,1.5,Medio Oriente,region,0.005341119498646916
+Combustible y Energía,20,2.1,India,region,0.007121492664862555
+Combustible y Energía,6,0.8,Egipto y Magreb,region,0.0021364477994587666
+Combustible y Energía,2,0.3,Oceanía,region,0.0007121492664862555
+Combustible y Energía,432,6.4,Brasil,pais,0.1538242415610312
+Combustible y Energía,87,4.0,China,pais,0.030978493092152115
+Combustible y Energía,94,5.8,Chile,pais,0.03347101552485401
+Combustible y Energía,390,33.2,Estados Unidos,pais,0.13886910696481983
+Combustible y Energía,15,1.5,Perú,pais,0.005341119498646916
+Combustible y Energía,20,2.1,India,pais,0.007121492664862555
+Combustible y Energía,55,6.5,Uruguay,pais,0.019584104828372025
+Combustible y Energía,21,2.6,Colombia,pais,0.007477567298105683
+Combustible y Energía,214,28.5,Paraguay,pais,0.07619997151402934
+Combustible y Energía,2,0.3,Vietnam,pais,0.0007121492664862555
